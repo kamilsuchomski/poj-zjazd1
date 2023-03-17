@@ -1,0 +1,4 @@
+**Zadanie 14**
+
+W celu wykonania zadania, uruchomiłem wiersz polecenia w systemie Windows. W moim przypadku użyta komenda do kompilacji programu to "javac C:\Users\Kamil\Desktop\Main.java".
+Następnie użyłem komendy "java C:\Users\Kamil\Desktop\Main.java", żeby uruchomić program.
